@@ -1,5 +1,7 @@
 #MEAN Stack Tutorial
 
+[![Code Climate](https://codeclimate.com/github/nickbdyer/meantest/badges/gpa.svg)](https://codeclimate.com/github/nickbdyer/meantest)
+
 Following the tutorial presented on
 [scotch.io](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application).
 
